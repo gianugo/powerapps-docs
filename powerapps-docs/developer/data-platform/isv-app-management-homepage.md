@@ -69,8 +69,8 @@ Below the summary section the user can access additional insights and can choose
 
 The App names and icons are from AppSource.
 
-[!IMPORTANT]
-With the January release of ISV Studio, the 'Installs' tile has been changed to reflect the *number of unique environments installed* instead that the total, cumulative number of installs.  
+> [!IMPORTANT]
+> With the January 2022 update, the 'Installs' tile has been changed to reflect the *number of unique environments installed* instead that the total, cumulative number of installs.  
 
 ![All apps.](media/isv-portal-homepage-seeall.png)
 
